@@ -1,5 +1,5 @@
 # Hi there 👋
-I'm **Md. Ashaduzzaman Sarker** from Bangladesh!!!
+### I'm `Md. Ashaduzzaman Sarker` from Bangladesh !!!
 
 I’m a researcher and engineer with a passion for advancing **Large Language Models (LLMs)**, **Natural Language Processing (NLP)**, **Agent AI**, **Computer Vision**, and **Multimodal Vision Language Model**. I work on developing innovative AI solutions capable of reasoning.
 
@@ -8,7 +8,7 @@ I learned Machine Learning and Deep Learning entirely through self-study and onl
 ## 💻 Projects from my repositories
 Most projects are implemented in Python using frameworks like PyTorch, TensorFlow, Keras, and Hugging Face Transformers, along with advanced CNN/RNN architectures, developed in environments such as Google Colab and Visual Studio Code.
 
-### Advancing-Reasoning-Projects-in-LLMs-and-VLMs
+### Advanced Reasoning Projects in LLMs and VLMs
 - [BioMedGPT: Medical Question Answering with Structured Reasoning and Verification](https://github.com/ashaduzzaman-sarker/Advancing-Reasoning-Projects-in-LLMs-and-VLMs/tree/main/BioMed_GPT)
 
 ### Large Language Models(LLMs) & Natural Language Processing(NLP) Projects
