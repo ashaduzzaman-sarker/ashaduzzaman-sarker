@@ -8,6 +8,9 @@ I learned Machine Learning and Deep Learning entirely through self-study and onl
 ## 💻 Projects from my repositories
 Most projects are implemented in Python using frameworks like PyTorch, TensorFlow, Keras, and Hugging Face Transformers, along with advanced CNN/RNN architectures, developed in environments such as Google Colab and Visual Studio Code.
 
+### Advancing-Reasoning-Projects-in-LLMs-and-VLMs
+- [BioMedGPT: Medical Question Answering with Structured Reasoning and Verification](https://github.com/ashaduzzaman-sarker/Advancing-Reasoning-Projects-in-LLMs-and-VLMs/tree/main/BioMed_GPT)
+
 ### Large Language Models(LLMs) & Natural Language Processing(NLP) Projects
 - [Text Classification with BERT the MRPC (Microsoft Research Paraphrase Corpus) dataset](https://github.com/ashaduzzaman-sarker/Natural-Language-Processing-NLP/blob/main/0.%20Text%20Classification/Text_Classification_on_MRPC_Dataset_(PyTorch).ipynb)
 - [Sentiment Analysis with DistilBERT on the IMDb dataset](https://github.com/ashaduzzaman-sarker/Natural-Language-Processing-NLP/blob/main/0.%20Text%20Classification/Text_Classification_on_the_IMDb_dataset_(PyTorch).ipynb)
