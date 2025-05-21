@@ -13,7 +13,7 @@ I remain deeply grateful to educational pioneers like **Jeremy Howard**, **Andre
 Most projects are implemented in Python using frameworks like PyTorch, TensorFlow, Keras, and Hugging Face Transformers, along with advanced CNN/RNN architectures, developed in environments such as Google Colab and Visual Studio Code.
 
 ### Rag & Agent
-- [Agentic_RAG_turbocharge_RAG_with_query_reformulation_and_self_query](https://github.com/ashaduzzaman-sarker/Agentic_RAG_turbocharge_RAG_with_query_reformulation_and_self_query)
+- [Agentic RAG: Turbocharge Retrieval-Augmented Generation with Query Reformulation and Self-Query](https://github.com/ashaduzzaman-sarker/Agentic_RAG_turbocharge_RAG_with_query_reformulation_and_self_query)
 - [Agent with tool-calling using smolagents](https://github.com/ashaduzzaman-sarker/Agent-with-tool-calling-using-smolagents)
 
 ### Advanced Reasoning Projects in LLMs and VLMs
