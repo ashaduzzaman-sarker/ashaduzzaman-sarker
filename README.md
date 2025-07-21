@@ -1,6 +1,6 @@
 # Hi there 👋
 ### I'm `Md. Ashaduzzaman Sarker` from Bangladesh !!!
-#### AI Researcher | Advancing Reasoning Systems
+#### Researcher 
 
 I specialize in developing intelligent systems at the intersection of **Large Language Models (LLMs)**, **Agent AI**, and **Multimodal Vision-Language architectures**. My current work focuses on creating AI solutions with advanced reasoning capabilities that bridge textual understanding, visual perception, and decision-making processes.
 
